@@ -15,5 +15,8 @@ Trabalho 1
 Trabalho 2 
   - Implementada Busca Gulosa para resolução de labirintos
     
+Trabalho 4 
+  - Implementada as resoluções dos exercicios de Prolog
+    
 Considerações:
     - Para escolher qual labirinto irá ser feita a busca, basta alterar o atributo "arquivo" no arquivo labirinto.py
